@@ -1,0 +1,5 @@
+Hola como estas
+
+esta carpeta es una archivo de pureba para aprender a crear un repositorio en git
+
+saludos
