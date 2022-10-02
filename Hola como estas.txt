@@ -2,5 +2,6 @@ Hola como estas
 
 esta carpeta es una archivo de pureba para aprender a crear un repositorio en git
 con esta ultima actualizacion del sistema
+v1
 
 saludos
